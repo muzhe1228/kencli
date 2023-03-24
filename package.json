@@ -1,0 +1,22 @@
+{
+  "name": "kencli",
+  "version": "1.0.0",
+  "description": "studyCli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muzhe1228/kencli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "ken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muzhe1228/kencli/issues"
+  },
+  "homepage": "https://github.com/muzhe1228/kencli#readme"
+}
