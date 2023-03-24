@@ -1,5 +1,5 @@
 {
-  "name": "kencli",
+  "name": "clitest",
   "version": "1.0.1",
   "description": "a cli system",
   "main": "bin/kenCli.js",
