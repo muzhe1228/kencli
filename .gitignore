@@ -1,0 +1,17 @@
+*.iml
+*.swo
+*.swp
+node_modules/
+build-tnpm/
+tmp/
+temp/
+*.log
+.DS_Store
+.idea
+test-tmp
+mui
+tap.log
+.deps
+.vscode
+.vdev
+.lock

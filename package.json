@@ -1,8 +1,9 @@
 {
   "name": "kencli",
-  "version": "1.0.0",
-  "description": "studyCli",
-  "main": "index.js",
+  "version": "1.0.1",
+  "description": "a cli system",
+  "main": "bin/kenCli.js",
+  "bin": "bin/kenCli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,6 +16,15 @@
   ],
   "author": "ken",
   "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "chalk": "^4.1.0",
+    "commander": "^10.0.0",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^11.1.0",
+    "inquirer": "^8.2.4",
+    "path": "^0.12.7"
+  },
   "bugs": {
     "url": "https://github.com/muzhe1228/kencli/issues"
   },
